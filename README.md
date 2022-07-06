@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yusuf Alperen</h1>
 <h3 align="center">A software engineering student from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yusufalperendumlu&label=Profile%20views&color=0e75b6&style=flat" alt="yusufalperendumlu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yusufalperendumlu&label=Profile%20views&color=553a99&style=flat" alt="yusufalperendumlu" /> </p>
 <img src="https://wakatime.com/badge/user/9a46e4e7-7247-4a70-bf00-269cab076503.svg" />
 
 - 🌱 I’m currently learning **JavaScript**
