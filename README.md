@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Yusuf Alperen</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
+
+<h1 align="center">I'm Yusuf Alperen</h1>
 <h3 align="center">A software engineering student from Turkey</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yusufalperendumlu&label=Profile%20views&color=553a99&style=flat" alt="yusufalperendumlu" /> </p>
