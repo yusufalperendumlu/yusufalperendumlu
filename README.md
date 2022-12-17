@@ -56,3 +56,7 @@
 <p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=yusufalperendumlu&show_icons=true&locale=en&theme=tokyonight" alt="yusufalperendumlu" /></p>
 
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=yusufalperendumlu&theme=tokyonight" alt="yusufalperendumlu" /></p>
+
+<p align="center" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
