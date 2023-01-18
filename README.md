@@ -51,9 +51,13 @@
 
 </tr></table>
 
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=yusufalperendumlu&show_icons=true&locale=en&layout=compact&theme=algolia" alt="yusufalperendumlu" /></p>
+<p href="https://github.com/yusufalperendumlu" align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yusufalperendumlu&layout=compact&langs_count=8&theme=algolia"/> 
+</p>
 
-<p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=yusufalperendumlu&show_icons=true&locale=en&theme=algolia" alt="yusufalperendumlu" /></p>
+<p href="https://github.com/yusufalperendumlu" align="center">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yusufalperendumlu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</p>
 
 <p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=yusufalperendumlu&theme=algolia" alt="yusufalperendumlu" /></p>
 
