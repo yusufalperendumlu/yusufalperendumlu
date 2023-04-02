@@ -6,7 +6,9 @@
 <h3 align="center">A software engineering student from Turkey</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yusufalperendumlu&label=Profile%20views&color=553a99&style=flat" alt="yusufalperendumlu" /> </p>
-<div align="center"> <img src="https://wakatime.com/badge/user/9a46e4e7-7247-4a70-bf00-269cab076503.svg" /> </div>
+<div align="center"> 
+ <a href="https://wakatime.com/@yusufalperen02"><img src="https://wakatime.com/badge/user/9a46e4e7-7247-4a70-bf00-269cab076503.svg" /></a>
+</div>
 <br>
 <p align="center">
 - 📫 How to reach me **yusufalperendumlu@gmail.com**
