@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">I'm Yusuf Alperen</h1>
-<h3 align="center">A software engineering student from Turkey</h3>
+<h3 align="center">A software engineering student from Turkiye</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yusufalperendumlu&label=Profile%20views&color=553a99&style=flat" alt="yusufalperendumlu" /> </p>
 <div align="center"> 
