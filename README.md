@@ -18,10 +18,10 @@
 <a href="https://twitter.com/alpegen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alpegen" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yusuf-alperen-dumlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusuf-alperen-dumlu" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19339262/yusuf-alperen-dumlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19339262/yusuf-alperen-dumlu" height="30" width="40" /></a>
-<a href="https://instagram.com/alperendumlu02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alperendumlu02" height="30" width="40" /></a>
+<a href="https://instagram.com/yusufalperendumlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alperendumlu02" height="30" width="40" /></a>
 <a href="https://medium.com/@yusufalperendumlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yusufalperendumlu" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/alperendumlu02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alperendumlu02" height="30" width="40" /></a>
-<a href="https://discord.gg/Yusuf Alperen Dumlu#7235" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Yusuf Alperen Dumlu#7235" height="30" width="40" /></a>
+<a href="https://discord.gg/yusufalperendumlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Yusuf Alperen Dumlu#7235" height="30" width="40" /></a>
 </p>
 
 
